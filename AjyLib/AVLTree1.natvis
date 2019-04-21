@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
+  <Type Name="Ajy::avltree1::avl_tree&lt;*&gt;">
+    <DisplayString Condition="_impl.size == 0">empty</DisplayString>
+    <DisplayString>{{ size={_impl.size} }}</DisplayString>
+    <Expand>
+      <Item Name="[key_compare]" ExcludeView="simple">(key_compare &amp;)_impl</Item>
+      <Item Name="[node_allocator]" ExcludeView="simple">(node_allocator_t &amp;)_impl</Item>
+      <Item Name="[raw]">_impl</Item>
+      <TreeItems>
+        <Size>_impl.size</Size>
+        <HeadPointer>_impl.header->parent</HeadPointer>
+        <LeftPointer>left</LeftPointer>
+        <RightPointer>right</RightPointer>
+        <ValueNode Condition="balance_factor != -2">value</ValueNode>
+      </TreeItems>
+    </Expand>
+  </Type>
+  <Type Name="Ajy::avltree1::avl_tree&lt;*&gt;::impl_t">
+    <DisplayString>{{ size={size},headerValue={header->value},rootValue={header->parent-&gt;value} }}</DisplayString>
+    <Expand>
+      <Item Name="[size]" ExcludeView="simple">size</Item>
+      <Item Name="[header]" ExcludeView="simple">header</Item>
+      <Item Name="[root]" ExcludeView="simple">header->parent</Item>
+    </Expand>
+  </Type>
+</AutoVisualizer>

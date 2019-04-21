@@ -1,0 +1,266 @@
+﻿  mainFun.cpp
+e:\vsproject\ajylib\ajylib\AVLTree.hpp(895): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  e:\vsproject\ajylib\ajylib\AVLTree.hpp(886): note: see declaration of '<unnamed-symbol>'
+e:\vsproject\ajylib\ajylib\AVLTree.hpp(907): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  e:\vsproject\ajylib\ajylib\AVLTree.hpp(898): note: see declaration of '<unnamed-symbol>'
+e:\vsproject\ajylib\ajylib\AVLTree.hpp(919): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  e:\vsproject\ajylib\ajylib\AVLTree.hpp(910): note: see declaration of '<unnamed-symbol>'
+e:\vsproject\ajylib\ajylib\AVLTree1.hpp(950): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  e:\vsproject\ajylib\ajylib\AVLTree1.hpp(941): note: see declaration of '<unnamed-symbol>'
+e:\vsproject\ajylib\ajylib\AVLTree1.hpp(962): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  e:\vsproject\ajylib\ajylib\AVLTree1.hpp(953): note: see declaration of '<unnamed-symbol>'
+e:\vsproject\ajylib\ajylib\AVLTree1.hpp(974): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  e:\vsproject\ajylib\ajylib\AVLTree1.hpp(965): note: see declaration of '<unnamed-symbol>'
+e:\vsproject\ajylib\ajylib\test\Other_Test.h(108): warning C4584: 'D': base-class 'B' is already a base-class of 'C'
+  e:\vsproject\ajylib\ajylib\test\Other_Test.h(94): note: see declaration of 'B'
+  e:\vsproject\ajylib\ajylib\test\Other_Test.h(100): note: see declaration of 'C'
+e:\vsproject\ajylib\ajylib\test\Serialization_Test.h(188): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\vsproject\ajylib\ajylib\test\Serialization_Test.h(189): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\vsproject\ajylib\ajylib\test\Serialization_Test.h(190): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\vsproject\ajylib\ajylib\test\Any_Test.h(92): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\CacheAffinityHash_Test.h(154): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\CacheAffinityHash_Test.h(494): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\CacheAffinityHash_Test.h(512): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\CacheAffinityHash_Test.h(535): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\CacheAffinityHash_Test.h(553): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\CacheAffinityHash_Test.h(576): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\CacheAffinityHash_Test.h(594): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\CacheAffinityHash_Test.h(617): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\CacheAffinityHash_Test.h(635): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(713): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(730): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(739): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(754): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(771): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(780): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(800): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(817): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(826): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(841): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(858): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(867): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(884): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(902): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(911): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(926): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(944): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(973): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(992): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(1001): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiMap_Compare.h(246): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiMap_Compare.h(252): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiMap_Compare.h(285): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiMap_Compare.h(291): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiMap_Compare.h(325): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiMap_Compare.h(331): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiMap_Compare.h(364): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiMap_Compare.h(370): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(231): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(251): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(277): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(297): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(323): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(343): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(369): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(389): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(415): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(436): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(469): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(490): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiSet_Compare.h(245): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiSet_Compare.h(251): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiSet_Compare.h(284): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiSet_Compare.h(290): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiSet_Compare.h(324): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiSet_Compare.h(330): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiSet_Compare.h(363): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\HashMultiSet_Compare.h(369): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\Map_Compare.h(481): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\Map_Compare.h(499): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\Map_Compare.h(519): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\Map_Compare.h(537): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\Map_Compare.h(557): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\Map_Compare.h(575): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\Map_Compare.h(595): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\Map_Compare.h(613): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\Map_Compare.h(633): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\Map_Compare.h(651): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\Map_Compare.h(671): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\test\Map_Compare.h(689): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+e:\vsproject\ajylib\ajylib\SkipList.hpp(344): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  e:\vsproject\ajylib\ajylib\SkipList.hpp(335): note: while compiling class template member function 'Ajy::SkipListIterator<Value,Value &,Value *> Ajy::SkipList<Value,std::less<_Kty>>::Erase(Ajy::SkipListNode<Value> *)'
+          with
+          [
+              Value=int,
+              _Kty=int
+          ]
+  e:\vsproject\ajylib\ajylib\SkipList.h(60): note: see reference to function template instantiation 'Ajy::SkipListIterator<Value,Value &,Value *> Ajy::SkipList<Value,std::less<_Kty>>::Erase(Ajy::SkipListNode<Value> *)' being compiled
+          with
+          [
+              Value=int,
+              _Kty=int
+          ]
+  e:\vsproject\ajylib\ajylib\test\SkipList_Test.h(9): note: see reference to class template instantiation 'Ajy::SkipList<int,std::less<_Kty>>' being compiled
+          with
+          [
+              _Kty=int
+          ]
+e:\vsproject\ajylib\ajylib\SkipList.hpp(364): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\vsproject\ajylib\ajylib\Dictionary.hpp(128): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(167): note: see reference to function template instantiation 'std::pair<bool,int> Ajy::Dictionary<int,int>::EmplaceAdd<int&,int&>(bool,K,int &)' being compiled
+          with
+          [
+              K=int &
+          ]
+  e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(167): note: see reference to function template instantiation 'std::pair<bool,int> Ajy::Dictionary<int,int>::EmplaceAdd<int&,int&>(bool,K,int &)' being compiled
+          with
+          [
+              K=int &
+          ]
+e:\vsproject\ajylib\ajylib\CMHashMap.hpp(146): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(205): note: see reference to function template instantiation 'std::pair<bool,int> Ajy::CMHashMap<int,int>::EmplaceAdd<int&,int&>(bool,K,int &)' being compiled
+          with
+          [
+              K=int &
+          ]
+  e:\vsproject\ajylib\ajylib\test\HashMap_Compare.h(205): note: see reference to function template instantiation 'std::pair<bool,int> Ajy::CMHashMap<int,int>::EmplaceAdd<int&,int&>(bool,K,int &)' being compiled
+          with
+          [
+              K=int &
+          ]
+e:\vsproject\ajylib\ajylib\CMHashSet.hpp(142): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(148): note: see reference to function template instantiation 'std::pair<bool,int> Ajy::CMHashSet<int>::EmplaceAdd<int&>(K)' being compiled
+          with
+          [
+              K=int &
+          ]
+  e:\vsproject\ajylib\ajylib\test\HashSet_Compare.h(148): note: see reference to function template instantiation 'std::pair<bool,int> Ajy::CMHashSet<int>::EmplaceAdd<int&>(K)' being compiled
+          with
+          [
+              K=int &
+          ]
+e:\vsproject\ajylib\ajylib\Dictionary.hpp(226): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  e:\vsproject\ajylib\ajylib\Dictionary.hpp(154): note: while compiling class template member function 'void Ajy::Dictionary<int,int>::Reserve(size_t)'
+  e:\vsproject\ajylib\ajylib\Dictionary.hpp(125): note: see reference to function template instantiation 'void Ajy::Dictionary<int,int>::Reserve(size_t)' being compiled
+  e:\vsproject\ajylib\ajylib\Dictionary.hpp(27): note: while compiling class template member function 'Ajy::Dictionary<int,int>::Dictionary(const Ajy::Dictionary<int,int> &)'
+  e:\vsproject\ajylib\ajylib\test\Dictionary_Test.h(17): note: see reference to function template instantiation 'Ajy::Dictionary<int,int>::Dictionary(const Ajy::Dictionary<int,int> &)' being compiled
+  e:\vsproject\ajylib\ajylib\test\Dictionary_Test.h(5): note: see reference to class template instantiation 'Ajy::Dictionary<int,int>' being compiled
+e:\vsproject\ajylib\ajylib\Dictionary.hpp(522): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  e:\vsproject\ajylib\ajylib\Dictionary.hpp(513): note: while compiling class template member function 'void Ajy::Dictionary<int,int>::FastAdd(const Ajy::Dictionary<int,int> &)'
+  e:\vsproject\ajylib\ajylib\Dictionary.hpp(29): note: see reference to function template instantiation 'void Ajy::Dictionary<int,int>::FastAdd(const Ajy::Dictionary<int,int> &)' being compiled
+e:\vsproject\ajylib\ajylib\SkipList.hpp(96): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  e:\vsproject\ajylib\ajylib\SkipList.hpp(80): note: while compiling class template member function 'void Ajy::SkipList<int,std::less<_Kty>>::CopyFrom(const Ajy::SkipList<int,std::less<_Kty>> &)'
+          with
+          [
+              _Kty=int
+          ]
+  e:\vsproject\ajylib\ajylib\SkipList.hpp(34): note: see reference to function template instantiation 'void Ajy::SkipList<int,std::less<_Kty>>::CopyFrom(const Ajy::SkipList<int,std::less<_Kty>> &)' being compiled
+          with
+          [
+              _Kty=int
+          ]
+  e:\vsproject\ajylib\ajylib\SkipList.hpp(39): note: while compiling class template member function 'Ajy::SkipList<int,std::less<_Kty>>::SkipList(Ajy::SkipList<int,std::less<_Kty>> &&)'
+          with
+          [
+              _Kty=int
+          ]
+  e:\vsproject\ajylib\ajylib\test\SkipList_Test.h(90): note: see reference to function template instantiation 'Ajy::SkipList<int,std::less<_Kty>>::SkipList(Ajy::SkipList<int,std::less<_Kty>> &&)' being compiled
+          with
+          [
+              _Kty=int
+          ]
+e:\vsproject\ajylib\ajylib\SkipList.hpp(224): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  e:\vsproject\ajylib\ajylib\SkipList.hpp(222): note: while compiling class template member function 'Ajy::SkipListIterator<Value,Value &,Value *> Ajy::SkipList<Value,std::less<_Kty>>::FindGreaterOrEqual(const Value &,Ajy::SkipListNode<Value> **)'
+          with
+          [
+              Value=int,
+              _Kty=int
+          ]
+  e:\vsproject\ajylib\ajylib\SkipList.hpp(166): note: see reference to function template instantiation 'Ajy::SkipListIterator<Value,Value &,Value *> Ajy::SkipList<Value,std::less<_Kty>>::FindGreaterOrEqual(const Value &,Ajy::SkipListNode<Value> **)' being compiled
+          with
+          [
+              Value=int,
+              _Kty=int
+          ]
+e:\vsproject\ajylib\ajylib\Dictionary.hpp(538): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  e:\vsproject\ajylib\ajylib\Dictionary.hpp(533): note: while compiling class template member function 'void Ajy::Dictionary<int,int>::DeleteKVs(void)'
+  e:\vsproject\ajylib\ajylib\Dictionary.hpp(547): note: see reference to function template instantiation 'void Ajy::Dictionary<int,int>::DeleteKVs(void)' being compiled
+  e:\vsproject\ajylib\ajylib\Dictionary.hpp(8): note: while compiling class template member function 'Ajy::Dictionary<int,int>::Dictionary(size_t)'
+  e:\vsproject\ajylib\ajylib\Dictionary.hpp(27): note: see reference to function template instantiation 'Ajy::Dictionary<int,int>::Dictionary(size_t)' being compiled
+e:\vsproject\ajylib\ajylib\Dictionary.hpp(539): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  0 of 674 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AjyLib.vcxproj -> E:\VSProject\AjyLib\x64\Release\AjyLib.exe

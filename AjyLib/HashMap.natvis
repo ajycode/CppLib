@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
+  <Type Name="Ajy::HashMap&lt;*&gt;">
+    <DisplayString Condition="nodes.dataLen == 0">empty</DisplayString>
+    <DisplayString>{{ size = {nodes.dataLen},capacity = {buckets.dataLen} }}</DisplayString>
+    <Expand>
+      <Item Name="[capacity]">buckets.dataLen</Item>
+      <Item Name="[size]">nodes.dataLen</Item>
+      <Item Name="[buckets]">buckets</Item>
+      <Item Name="[nodes]">nodes</Item>
+      <CustomListItems Condition="nodes.dataLen != 0">
+        <Variable InitialValue="0" Name="index"/>
+        <Loop>
+          <!--<If Condition="index == count">-->
+          <If Condition="index &gt;= nodes.dataLen">
+            <Break/>
+          </If>
+          <Item Name="[{index}]">nodes.buf[index]</Item>
+          <Exec>++index</Exec>
+        </Loop>
+      </CustomListItems>
+    </Expand>
+  </Type>
+  <Type Name="Ajy::HashMap&lt;*&gt;::Node">
+    <DisplayString>{{{key},{value}}}</DisplayString>
+  </Type>
+</AutoVisualizer>

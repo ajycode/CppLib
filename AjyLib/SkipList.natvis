@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
+  <Type Name="Ajy::SkipList&lt;*&gt;">
+    <DisplayString>{{size={nodeCount},level={level},maxLevel={maxLevel}}}</DisplayString>
+    <Expand>
+      <Item Name="[comparator]" ExcludeView="simple">valComparator</Item>
+      <Item Name="[random]" ExcludeView="simple">random</Item>
+      <Item Name="[size]" ExcludeView="simple">nodeCount</Item>
+      <Item Name="[level]" ExcludeView="simple">level</Item>
+      <Item Name="[maxLevel]" ExcludeView="simple">maxLevel</Item>
+      <Item Name="[head]" ExcludeView="simple">*head</Item>
+      <LinkedListItems>
+        <Size>nodeCount</Size>
+        <HeadPointer>head->next[0]</HeadPointer>
+        <NextPointer>next[0]</NextPointer>
+        <!--<ValueNode>val</ValueNode>-->
+        <!--<ValueNode>this</ValueNode>-->
+        <ValueNode>*this</ValueNode>
+      </LinkedListItems>
+    </Expand>
+  </Type>
+  <Type Name="Ajy::SkipListNode&lt;*&gt;">
+    <DisplayString>{{val={val},nextCount={nextCount}}}</DisplayString>
+    <Expand>
+      <CustomListItems Condition="nextCount != 0">
+        <Variable InitialValue="0" Name="index"/>
+        <Loop>
+          <If Condition="index == nextCount">
+          <!--<If Condition="index &gt;= nextCount">-->
+            <Break/>
+          </If>
+          <If Condition="next[index] == nullptr">
+            <Item Name="[{index}]">nullptr</Item>
+          </If>
+          <Else>
+            <Item Name="[{index}]">next[index]->val</Item>
+          </Else>
+          <!--<Item Condition="next[index] != nullptr" Name="[{index}]">next[index]->val</Item>-->
+          <Exec>++index</Exec>
+        </Loop>
+      </CustomListItems>
+    </Expand>
+  </Type>
+</AutoVisualizer>

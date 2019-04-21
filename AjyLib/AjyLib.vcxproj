@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{B8C79A04-8206-46E9-82A4-4FA618C810E2}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>AjyLib</RootNamespace>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalOptions>/bigobj</AdditionalOptions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="AlignedAlloc.h" />
+    <ClInclude Include="Allocator.hpp" />
+    <ClInclude Include="Any.hpp" />
+    <ClInclude Include="AVLTree.hpp" />
+    <ClInclude Include="AVLTree1.hpp" />
+    <ClInclude Include="Bind.hpp" />
+    <ClInclude Include="BppTree.hpp" />
+    <ClInclude Include="BTree.hpp" />
+    <ClInclude Include="CheckMemberExist.h" />
+    <ClInclude Include="CMHashMap.hpp" />
+    <ClInclude Include="CMHashSet.hpp" />
+    <ClInclude Include="Console.h" />
+    <ClInclude Include="Console.hpp" />
+    <ClInclude Include="CacheAffinityHash.h" />
+    <ClInclude Include="Defines.h" />
+    <ClInclude Include="Dictionary.h" />
+    <ClInclude Include="Dictionary.hpp" />
+    <ClInclude Include="dtoa_milo.h" />
+    <ClInclude Include="Function.h" />
+    <ClInclude Include="HashMap.h" />
+    <ClInclude Include="HashMap.hpp" />
+    <ClInclude Include="HashSet.h" />
+    <ClInclude Include="HashSet.hpp" />
+    <ClInclude Include="Invoke.hpp" />
+    <ClInclude Include="List.h" />
+    <ClInclude Include="List.hpp" />
+    <ClInclude Include="Map.h" />
+    <ClInclude Include="Map.hpp" />
+    <ClInclude Include="MemoryPool.h" />
+    <ClInclude Include="Pair.h" />
+    <ClInclude Include="AjyLib.h" />
+    <ClInclude Include="PriorityQueue.h" />
+    <ClInclude Include="PriorityQueue.hpp" />
+    <ClInclude Include="Queue.h" />
+    <ClInclude Include="Queue.hpp" />
+    <ClInclude Include="Random.h" />
+    <ClInclude Include="RBTree.h" />
+    <ClInclude Include="RBTree.hpp" />
+    <ClInclude Include="RBTree2.h" />
+    <ClInclude Include="RBTree2.hpp" />
+    <ClInclude Include="RedBlackTree.hpp" />
+    <ClInclude Include="Serialization.h" />
+    <ClInclude Include="Serialization.hpp" />
+    <ClInclude Include="Set.h" />
+    <ClInclude Include="Set.hpp" />
+    <ClInclude Include="SharedPtr.hpp" />
+    <ClInclude Include="Singleton.h" />
+    <ClInclude Include="SizeBalanceTree.hpp" />
+    <ClInclude Include="SkipList.h" />
+    <ClInclude Include="SkipList.hpp" />
+    <ClInclude Include="Stack.h" />
+    <ClInclude Include="Stack.hpp" />
+    <ClInclude Include="StopWatch.h" />
+    <ClInclude Include="String.h" />
+    <ClInclude Include="String.hpp" />
+    <ClInclude Include="Test\All.h" />
+    <ClInclude Include="Test\Any_Test.h" />
+    <ClInclude Include="Test\AVLTree_Test.h" />
+    <ClInclude Include="Test\Bind_Test.h" />
+    <ClInclude Include="Test\BppTree_Test.h" />
+    <ClInclude Include="Test\CheckMember_Test.h" />
+    <ClInclude Include="Test\CMHashMap_Test.h" />
+    <ClInclude Include="Test\CMHashSet_Test.h" />
+    <ClInclude Include="Test\CacheAffinityHash_Test.h" />
+    <ClInclude Include="Test\Dictionary_Test.h" />
+    <ClInclude Include="Test\Function_Test.h" />
+    <ClInclude Include="Test\HashMap_Compare.h" />
+    <ClInclude Include="Test\HashMap_Test.h" />
+    <ClInclude Include="Test\HashMultiMap_Compare.h" />
+    <ClInclude Include="Test\HashMultiSet_Compare.h" />
+    <ClInclude Include="Test\HashSet_Compare.h" />
+    <ClInclude Include="Test\HashSet_Test.h" />
+    <ClInclude Include="Test\List_Compare.h" />
+    <ClInclude Include="Test\List_Test.h" />
+    <ClInclude Include="Test\MakeIndexSequence_Test.h" />
+    <ClInclude Include="Test\Map_Compare.h" />
+    <ClInclude Include="Test\Map_Test.h" />
+    <ClInclude Include="Test\MemoryPoolTest.h" />
+    <ClInclude Include="Test\Multimap_Compare.h" />
+    <ClInclude Include="Test\MultiMap_Test.h" />
+    <ClInclude Include="Test\MultiSet_Compare.h" />
+    <ClInclude Include="Test\MultiSet_Test.h" />
+    <ClInclude Include="Test\Other_Test.h" />
+    <ClInclude Include="Test\PriorityQueue_Test.h" />
+    <ClInclude Include="Test\Queue_Test.h" />
+    <ClInclude Include="Test\RedBlackTree_Test.h" />
+    <ClInclude Include="Test\Serialization_Test.h" />
+    <ClInclude Include="Test\Set_Compare.h" />
+    <ClInclude Include="Test\Set_Test.h" />
+    <ClInclude Include="Test\SharedPtr_Test.h" />
+    <ClInclude Include="Test\SizeBalanceTree_Test.h" />
+    <ClInclude Include="Test\SkipList_Test.h" />
+    <ClInclude Include="Test\Stack_Test.h" />
+    <ClInclude Include="Test\String_Test.h" />
+    <ClInclude Include="Test\TimerTest.h" />
+    <ClInclude Include="Test\Traits_Test.h" />
+    <ClInclude Include="Test\Tuple_Test.h" />
+    <ClInclude Include="Test\TypeList_Test.h" />
+    <ClInclude Include="Test\Variant_Test.h" />
+    <ClInclude Include="Test\Vector_Compare.h" />
+    <ClInclude Include="Test\Vector_Test.h" />
+    <ClInclude Include="ThreadSafeQueue.hpp" />
+    <ClInclude Include="Timer.hpp" />
+    <ClInclude Include="Traits.hpp" />
+    <ClInclude Include="Tuple.hpp" />
+    <ClInclude Include="TypeList.hpp" />
+    <ClInclude Include="Utils.h" />
+    <ClInclude Include="Utils.hpp" />
+    <ClInclude Include="Variant.hpp" />
+    <ClInclude Include="Vector.h" />
+    <ClInclude Include="Vector.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="AVLTree.natvis" />
+    <Natvis Include="AVLTree1.natvis" />
+    <Natvis Include="BppTree.natvis">
+      <SubType>Designer</SubType>
+    </Natvis>
+    <Natvis Include="BTree.natvis" />
+    <Natvis Include="CMHashMap.natvis" />
+    <Natvis Include="CacheAffinityHash.natvis" />
+    <Natvis Include="HashMap.natvis" />
+    <Natvis Include="List.natvis" />
+    <Natvis Include="RedBlackTree.natvis" />
+    <Natvis Include="SizeBalanceTree.natvis" />
+    <Natvis Include="SkipList.natvis">
+      <SubType>Designer</SubType>
+    </Natvis>
+    <Natvis Include="String.natvis" />
+    <Natvis Include="Vector.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dtoa_milo.cpp" />
+    <ClCompile Include="MemoryPool.cpp" />
+    <ClCompile Include="Serialization.cpp" />
+    <ClCompile Include="String.cpp" />
+    <ClCompile Include="Test\mainFun.cpp" />
+    <ClCompile Include="Utils.cpp" />
+    <ClCompile Include="Vector.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
+  <Type Name="Ajy::List&lt;*&gt;">
+    <DisplayString>{{ size = {nodeCount} }}</DisplayString>
+    <Expand>
+      <Item Name="[size]" ExcludeView="simple">nodeCount</Item>
+      <LinkedListItems>
+        <Size>nodeCount</Size>
+        <HeadPointer>head-&gt;next</HeadPointer>
+        <!--<HeadPointer>head->next</HeadPointer>-->
+        <NextPointer>next</NextPointer>
+        <ValueNode>value</ValueNode>
+      </LinkedListItems>
+    </Expand>
+  </Type>
+</AutoVisualizer>

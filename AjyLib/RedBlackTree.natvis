@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
+  <Type Name="Ajy::red_black_tree&lt;*&gt;">
+    <DisplayString Condition="root_.size == 0">empty</DisplayString>
+    <DisplayString>{{ size={root_.size} }}</DisplayString>
+    <Expand>
+      <Item Name="[key_compare]" ExcludeView="simple">(key_compare &amp;)root_</Item>
+      <Item Name="[node_allocator]" ExcludeView="simple">(node_allocator_t &amp;)root_</Item>
+      <Item Name="[raw]">root_</Item>
+      <TreeItems>
+        <Size>root_.size</Size>
+        <HeadPointer>root_.root</HeadPointer>
+        <LeftPointer>left</LeftPointer>
+        <RightPointer>right</RightPointer>
+        <ValueNode Condition="parent != nullptr">value</ValueNode>
+      </TreeItems>
+    </Expand>
+  </Type>
+  <Type Name="Ajy::red_black_tree&lt;*&gt;::root_t">
+    <DisplayString>{{ size={size},nilValue={nil->value},rootValue={root-&gt;value} }}</DisplayString>
+    <Expand>
+      <Item Name="[size]" ExcludeView="simple">size</Item>
+      <Item Name="[nil]" ExcludeView="simple">nil</Item>
+      <Item Name="[root]" ExcludeView="simple">root</Item>
+    </Expand>
+  </Type>
+  <Type Name="Ajy::red_black_tree&lt;*&gt;::node_t">
+    <DisplayString>{{ {value},{color} }}</DisplayString>
+  </Type>
+  <Type Name="Ajy::red_black_tree&lt;*&gt;::iterator">
+    <DisplayString Condition="node-&gt;parent != nullptr">{node-&gt;value}</DisplayString>
+    <DisplayString Condition="node-&gt;parent == nullptr">end</DisplayString>
+    <Expand>
+      <Item Condition="node->parent != nullptr" Name="[ptr]">node</Item>
+    </Expand>
+  </Type>
+  <Type Name="Ajy::red_black_tree&lt;*&gt;::const_iterator">
+    <DisplayString Condition="node-&gt;parent != nullptr">{node-&gt;value}</DisplayString>
+    <DisplayString Condition="node-&gt;parent == nullptr">end</DisplayString>
+    <Expand>
+      <Item Condition="node->parent != nullptr" Name="[ptr]">node</Item>
+    </Expand>
+  </Type>
+  <Type Name="Ajy::red_black_tree&lt;*&gt;::reverse_iterator">
+    <DisplayString Condition="node-&gt;parent != nullptr">{node-&gt;value}</DisplayString>
+    <DisplayString Condition="node-&gt;parent == nullptr">end</DisplayString>
+    <Expand>
+      <Item Condition="node->parent != nullptr" Name="[ptr]">node</Item>
+    </Expand>
+  </Type>
+  <Type Name="Ajy::red_black_tree&lt;*&gt;::const_reverse_iterator">
+    <DisplayString Condition="node-&gt;parent != nullptr">{node-&gt;value}</DisplayString>
+    <DisplayString Condition="node-&gt;parent == nullptr">end</DisplayString>
+    <Expand>
+      <Item Condition="node->parent != nullptr" Name="[ptr]">node</Item>
+    </Expand>
+  </Type>
+</AutoVisualizer>

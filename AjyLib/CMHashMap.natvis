@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
+  <Type Name="Ajy::CMHashMap&lt;*&gt;">
+    <DisplayString Condition="count == 0">empty</DisplayString>
+    <DisplayString>{{ size = {count - freeCount}, capacity = {bucketsLen} }}</DisplayString>
+    <Expand>
+      <!--<Item Name="[size]" ExcludeView="simple">count - freeCount</Item>-->
+      <Synthetic Name="[buckets]">
+        <DisplayString>{{ size={bucketsLen} }}</DisplayString>
+        <Expand>
+          <ArrayItems>
+            <Size>bucketsLen</Size>
+            <ValuePointer>buckets</ValuePointer>
+          </ArrayItems>
+        </Expand>
+      </Synthetic>
+      <Synthetic Name="[nodes]">
+        <DisplayString Condition="count == 0">empty</DisplayString>
+        <DisplayString>{{ size = {count - freeCount}, capacity = {bucketsLen} }}</DisplayString>
+        <Expand>
+          <Item Name="[capacity]">bucketsLen</Item>
+          <Item Name="[size]">count - freeCount</Item>
+          <ArrayItems>
+            <Size>bucketsLen</Size>
+            <ValuePointer>nodes</ValuePointer>
+          </ArrayItems>
+        </Expand>
+      </Synthetic>
+      <Synthetic Name="[items]">
+        <DisplayString Condition="count == 0">empty</DisplayString>
+        <DisplayString>{{ size = {count - freeCount}, capacity = {bucketsLen} }}</DisplayString>
+        <Expand>
+          <Item Name="[capacity]">bucketsLen</Item>
+          <Item Name="[size]">count - freeCount</Item>
+          <ArrayItems>
+            <Size>bucketsLen</Size>
+            <ValuePointer>items</ValuePointer>
+          </ArrayItems>
+        </Expand>
+      </Synthetic>
+      <CustomListItems Condition="count - freeCount != 0">
+        <Variable InitialValue="0" Name="index"/>
+        <Loop>
+          <!--<If Condition="index == count">-->
+          <If Condition="index &gt;= count">
+            <Break/>
+          </If>
+          <If Condition="items[index].prev != -2">
+            <Item Name="[{index}]">items[index]</Item>
+          </If>
+          <Exec>++index</Exec>
+        </Loop>
+      </CustomListItems>
+    </Expand>
+  </Type>
+  <Type Name="Ajy::CMHashMap&lt;*&gt;::Node">
+    <DisplayString>{{hashCode = {hashCode}, next = {next}}}</DisplayString>
+  </Type>
+  <Type Name="Ajy::CMHashMap&lt;*&gt;::Data">
+    <DisplayString>{{{key},{value}}}</DisplayString>
+  </Type>
+</AutoVisualizer>

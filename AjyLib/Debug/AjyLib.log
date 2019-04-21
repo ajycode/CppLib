@@ -1,0 +1,507 @@
+﻿  Vector.cpp
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1018): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1009): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1030): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1021): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1042): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1033): note: see declaration of '<unnamed-symbol>'
+  Utils.cpp
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1018): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1009): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1030): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1021): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1042): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1033): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\utils.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  mainFun.cpp
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1018): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1009): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1030): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1021): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1042): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1033): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\test\other_test.h(108): warning C4584: 'D': base-class 'B' is already a base-class of 'C'
+  c:\self\vsproject\ajylib\ajylib\test\other_test.h(94): note: see declaration of 'B'
+  c:\self\vsproject\ajylib\ajylib\test\other_test.h(100): note: see declaration of 'C'
+c:\self\vsproject\ajylib\ajylib\test\vector_test.h(50): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\vector_test.h(68): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_test.h(15): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_test.h(26): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_test.h(32): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_test.h(48): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashset_test.h(15): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashset_test.h(26): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashset_test.h(32): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\serialization_test.h(26): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\serialization_test.h(30): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\serialization_test.h(188): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\self\vsproject\ajylib\ajylib\test\serialization_test.h(189): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\self\vsproject\ajylib\ajylib\test\serialization_test.h(190): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\self\vsproject\ajylib\ajylib\test\serialization_test.h(200): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\serialization_test.h(204): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\serialization_test.h(241): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\any_test.h(68): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\any_test.h(82): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\any_test.h(111): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\any_test.h(124): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\any_test.h(132): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\any_test.h(92): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\cmhashmap_test.h(30): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\cmhashmap_test.h(39): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\cmhashset_test.h(11): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\cmhashset_test.h(19): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\cmhashset_test.h(30): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\cmhashset_test.h(37): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\cmhashset_test.h(44): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\cacheaffinityhash_test.h(154): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\cacheaffinityhash_test.h(494): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\cacheaffinityhash_test.h(512): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\cacheaffinityhash_test.h(535): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\cacheaffinityhash_test.h(553): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\cacheaffinityhash_test.h(576): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\cacheaffinityhash_test.h(594): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\cacheaffinityhash_test.h(617): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\cacheaffinityhash_test.h(635): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(173): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(189): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(211): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(228): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(252): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(449): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(465): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(487): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(504): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(528): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(620): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(647): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(660): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(682): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(891): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(933): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(955): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(981): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(713): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(730): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(739): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(754): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(771): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(780): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(800): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(817): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(826): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(841): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(858): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(867): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(884): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(902): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(911): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(926): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(944): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(973): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(992): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(1001): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultimap_compare.h(246): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultimap_compare.h(252): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultimap_compare.h(285): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultimap_compare.h(291): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultimap_compare.h(325): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultimap_compare.h(331): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultimap_compare.h(364): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultimap_compare.h(370): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(154): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(175): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(197): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(422): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(453): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(477): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(502): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(231): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(251): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(277): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(297): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(323): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(343): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(369): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(389): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(415): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(436): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(469): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(490): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(606): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(633): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(655): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(676): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\test\hashmultiset_compare.h(245): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultiset_compare.h(251): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultiset_compare.h(284): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultiset_compare.h(290): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultiset_compare.h(324): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultiset_compare.h(330): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultiset_compare.h(363): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\hashmultiset_compare.h(369): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\map_compare.h(481): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\map_compare.h(499): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\map_compare.h(519): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\map_compare.h(537): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\map_compare.h(557): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\map_compare.h(575): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\map_compare.h(595): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\map_compare.h(613): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\map_compare.h(633): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\map_compare.h(651): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\map_compare.h(671): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\map_compare.h(689): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\self\vsproject\ajylib\ajylib\test\mainfun.cpp(103): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'char (*)[13]'
+c:\self\vsproject\ajylib\ajylib\cmhashset.hpp(304): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\cmhashset.hpp(303): note: while compiling class template member function 'std::string &Ajy::CMHashSet<std::string>::IndexAtKey(int)'
+  c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(426): note: see reference to function template instantiation 'std::string &Ajy::CMHashSet<std::string>::IndexAtKey(int)' being compiled
+  c:\self\vsproject\ajylib\ajylib\test\hashset_compare.h(411): note: see reference to class template instantiation 'Ajy::CMHashSet<std::string>' being compiled
+c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(343): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(342): note: while compiling class template member function 'int &Ajy::CMHashMap<int,int>::IndexAtValue(int)'
+  c:\self\vsproject\ajylib\ajylib\test\any_test.h(114): note: see reference to function template instantiation 'int &Ajy::CMHashMap<int,int>::IndexAtValue(int)' being compiled
+  c:\self\vsproject\ajylib\ajylib\test\any_test.h(102): note: see reference to class template instantiation 'Ajy::CMHashMap<int,int>' being compiled
+c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(338): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(337): note: while compiling class template member function 'int &Ajy::CMHashMap<int,int>::IndexAtKey(int)'
+  c:\self\vsproject\ajylib\ajylib\test\any_test.h(114): note: see reference to function template instantiation 'int &Ajy::CMHashMap<int,int>::IndexAtKey(int)' being compiled
+c:\self\vsproject\ajylib\ajylib\cmhashset.hpp(334): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\cmhashset.hpp(332): note: while compiling class template member function 'void Ajy::CMHashSet<Ajy::String>::CopyFrom(const Ajy::CMHashSet<Ajy::String> &)'
+  c:\self\vsproject\ajylib\ajylib\cmhashset.hpp(47): note: see reference to function template instantiation 'void Ajy::CMHashSet<Ajy::String>::CopyFrom(const Ajy::CMHashSet<Ajy::String> &)' being compiled
+c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(377): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(375): note: while compiling class template member function 'void Ajy::CMHashMap<int,int>::CopyFrom(const Ajy::CMHashMap<int,int> &)'
+  c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(47): note: see reference to function template instantiation 'void Ajy::CMHashMap<int,int>::CopyFrom(const Ajy::CMHashMap<int,int> &)' being compiled
+c:\self\vsproject\ajylib\ajylib\cmhashset.hpp(356): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\cmhashset.hpp(355): note: while compiling class template member function 'void Ajy::CMHashSet<std::string>::Dispose(void)'
+  c:\self\vsproject\ajylib\ajylib\cmhashset.hpp(367): note: see reference to function template instantiation 'void Ajy::CMHashSet<std::string>::Dispose(void)' being compiled
+c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(400): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(399): note: while compiling class template member function 'void Ajy::CMHashMap<std::string,Ajy::String>::Dispose(void)'
+  c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(412): note: see reference to function template instantiation 'void Ajy::CMHashMap<std::string,Ajy::String>::Dispose(void)' being compiled
+  c:\self\vsproject\ajylib\ajylib\test\hashmap_compare.h(922): note: see reference to class template instantiation 'Ajy::CMHashMap<std::string,Ajy::String>' being compiled
+c:\self\vsproject\ajylib\ajylib\dictionary.hpp(368): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\dictionary.hpp(367): note: while compiling class template member function 'int &Ajy::Dictionary<int,int>::KeyIndexAt(int)'
+  c:\self\vsproject\ajylib\ajylib\test\any_test.h(85): note: see reference to function template instantiation 'int &Ajy::Dictionary<int,int>::KeyIndexAt(int)' being compiled
+  c:\self\vsproject\ajylib\ajylib\test\dictionary_test.h(5): note: see reference to class template instantiation 'Ajy::Dictionary<int,int>' being compiled
+c:\self\vsproject\ajylib\ajylib\dictionary.hpp(375): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\dictionary.hpp(374): note: while compiling class template member function 'int &Ajy::Dictionary<int,int>::IndexAt(int)'
+  c:\self\vsproject\ajylib\ajylib\test\any_test.h(85): note: see reference to function template instantiation 'int &Ajy::Dictionary<int,int>::IndexAt(int)' being compiled
+c:\self\vsproject\ajylib\ajylib\skiplist.hpp(339): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\skiplist.hpp(335): note: while compiling class template member function 'Ajy::SkipListIterator<Value,Value &,Value *> Ajy::SkipList<Value,std::less<_Kty>>::Erase(Ajy::SkipListNode<Value> *)'
+          with
+          [
+              Value=int,
+              _Kty=int
+          ]
+  c:\self\vsproject\ajylib\ajylib\skiplist.h(60): note: see reference to function template instantiation 'Ajy::SkipListIterator<Value,Value &,Value *> Ajy::SkipList<Value,std::less<_Kty>>::Erase(Ajy::SkipListNode<Value> *)' being compiled
+          with
+          [
+              Value=int,
+              _Kty=int
+          ]
+  c:\self\vsproject\ajylib\ajylib\test\skiplist_test.h(9): note: see reference to class template instantiation 'Ajy::SkipList<int,std::less<_Kty>>' being compiled
+          with
+          [
+              _Kty=int
+          ]
+c:\self\vsproject\ajylib\ajylib\skiplist.hpp(353): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\skiplist.hpp(154): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\skiplist.hpp(144): note: while compiling class template member function 'void Ajy::SkipList<int,std::less<_Kty>>::Clear(void)'
+          with
+          [
+              _Kty=int
+          ]
+  c:\self\vsproject\ajylib\ajylib\test\skiplist_test.h(81): note: see reference to function template instantiation 'void Ajy::SkipList<int,std::less<_Kty>>::Clear(void)' being compiled
+          with
+          [
+              _Kty=int
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2229): warning C4996: 'std::_Copy_impl': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2216): note: see declaration of 'std::_Copy_impl'
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2816): note: see reference to function template instantiation '_OutIt std::copy<Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::node_t**,Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::node_t**>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::node_t **,
+              _InIt=Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::node_t **
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2787): note: while compiling class template member function 'void Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::erase_pos_descend_(Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::inner_node_t *,Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::size_type,Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::result_t &&)'
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2774): note: see reference to function template instantiation 'void Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::erase_pos_descend_(Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::inner_node_t *,Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::size_type,Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::result_t &&)' being compiled
+  c:\self\vsproject\ajylib\ajylib\test\multiset_compare.h(15): note: see reference to class template instantiation 'Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>' being compiled
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2506): warning C4996: 'std::_Copy_backward': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2493): note: see declaration of 'std::_Copy_backward'
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2579): note: see reference to function template instantiation '_BidIt2 std::copy_backward<Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::node_t**,Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::node_t**>(_BidIt1,_BidIt1,_BidIt2)' being compiled
+          with
+          [
+              _BidIt2=Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::node_t **,
+              _BidIt1=Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::node_t **
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2576): note: while compiling class template member function 'void Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::shift_right_inner_(Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::inner_node_t *,Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::inner_node_t *,Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::inner_node_t *,Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::size_type)'
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2864): note: see reference to function template instantiation 'void Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::shift_right_inner_(Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::inner_node_t *,Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::inner_node_t *,Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::inner_node_t *,Ajy::bpp_tree<Ajy::bpptree_set_config_t<int,std::greater<int>,std::allocator<int>,std::false_type>>::size_type)' being compiled
+c:\self\vsproject\ajylib\ajylib\cmhashset.hpp(202): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\cmhashset.hpp(175): note: while compiling class template member function 'void Ajy::CMHashSet<std::string>::Reserve(size_t)'
+  c:\self\vsproject\ajylib\ajylib\cmhashset.hpp(139): note: see reference to function template instantiation 'void Ajy::CMHashSet<std::string>::Reserve(size_t)' being compiled
+c:\self\vsproject\ajylib\ajylib\cmhashset.hpp(212): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(218): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(190): note: while compiling class template member function 'void Ajy::CMHashMap<std::string,Ajy::String>::Reserve(size_t)'
+  c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(143): note: see reference to function template instantiation 'void Ajy::CMHashMap<std::string,Ajy::String>::Reserve(size_t)' being compiled
+c:\self\vsproject\ajylib\ajylib\cmhashmap.hpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\stack.hpp(105): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\stack.hpp(104): note: while compiling class template member function 'void Ajy::Stack<Ajy::List<Ajy::String>>::Clear(void)'
+  c:\self\vsproject\ajylib\ajylib\stack.hpp(94): note: see reference to function template instantiation 'void Ajy::Stack<Ajy::List<Ajy::String>>::Clear(void)' being compiled
+  c:\self\vsproject\ajylib\ajylib\stack.hpp(18): note: while compiling class template member function 'Ajy::Stack<Ajy::List<Ajy::String>>::Stack(void)'
+  c:\self\vsproject\ajylib\ajylib\test\stack_test.h(5): note: see reference to function template instantiation 'Ajy::Stack<Ajy::List<Ajy::String>>::Stack(void)' being compiled
+  c:\self\vsproject\ajylib\ajylib\test\stack_test.h(5): note: see reference to class template instantiation 'Ajy::Stack<Ajy::List<Ajy::String>>' being compiled
+c:\self\vsproject\ajylib\ajylib\stack.hpp(158): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\stack.hpp(144): note: while compiling class template member function 'void Ajy::Stack<Ajy::List<Ajy::String>>::Reserve(size_t)'
+  c:\self\vsproject\ajylib\ajylib\stack.hpp(183): note: see reference to function template instantiation 'void Ajy::Stack<Ajy::List<Ajy::String>>::Reserve(size_t)' being compiled
+c:\self\vsproject\ajylib\ajylib\dictionary.hpp(183): warning C4018: '<': signed/unsigned mismatch
+  c:\self\vsproject\ajylib\ajylib\dictionary.hpp(154): note: while compiling class template member function 'void Ajy::Dictionary<int,int>::Reserve(size_t)'
+  c:\self\vsproject\ajylib\ajylib\dictionary.hpp(125): note: see reference to function template instantiation 'void Ajy::Dictionary<int,int>::Reserve(size_t)' being compiled
+  c:\self\vsproject\ajylib\ajylib\dictionary.hpp(27): note: while compiling class template member function 'Ajy::Dictionary<int,int>::Dictionary(const Ajy::Dictionary<int,int> &)'
+  c:\self\vsproject\ajylib\ajylib\test\dictionary_test.h(17): note: see reference to function template instantiation 'Ajy::Dictionary<int,int>::Dictionary(const Ajy::Dictionary<int,int> &)' being compiled
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory(349): warning C4996: 'std::_Uninitialized_copy0': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xmemory(336): note: see declaration of 'std::_Uninitialized_copy0'
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(180): note: see reference to function template instantiation '_FwdIt std::uninitialized_copy<std::move_iterator<iterator_from_t>,iterator_to_t>(_InIt,_InIt,_FwdIt)' being compiled
+          with
+          [
+              _FwdIt=std::pair<Ajy::String,int> *,
+              iterator_from_t=std::pair<Ajy::String,int> *,
+              iterator_to_t=std::pair<Ajy::String,int> *,
+              _InIt=std::move_iterator<std::pair<Ajy::String,int> *>
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2164): note: see reference to function template instantiation 'void Ajy::bpp_tree_detail::move_construct<iterator_from_t,iterator_to_t>(iterator_from_t,iterator_from_t,iterator_to_t,Ajy::bpp_tree_detail::move_assign_tag)' being compiled
+          with
+          [
+              iterator_from_t=std::pair<Ajy::String,int> *,
+              iterator_to_t=std::pair<Ajy::String,int> *
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2517): note: see reference to function template instantiation 'void Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::move_construct_<std::pair<Ajy::String,int>*,std::pair<Ajy::String,int>*>(iterator_from_t,iterator_from_t,iterator_to_t)' being compiled
+          with
+          [
+              Key=Ajy::String,
+              _Kty=Ajy::String,
+              _Ty=int,
+              iterator_from_t=std::pair<Ajy::String,int> *,
+              iterator_to_t=std::pair<Ajy::String,int> *
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2517): note: see reference to function template instantiation 'void Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::move_construct_<std::pair<Ajy::String,int>*,std::pair<Ajy::String,int>*>(iterator_from_t,iterator_from_t,iterator_to_t)' being compiled
+          with
+          [
+              Key=Ajy::String,
+              _Kty=Ajy::String,
+              _Ty=int,
+              iterator_from_t=std::pair<Ajy::String,int> *,
+              iterator_to_t=std::pair<Ajy::String,int> *
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2515): note: while compiling class template member function 'Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::result_t Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::shift_left_leaf_(Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::leaf_node_t *,Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::leaf_node_t *,Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::inner_node_t *,Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::size_type)'
+          with
+          [
+              Key=Ajy::String,
+              _Kty=Ajy::String,
+              _Ty=int
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2729): note: see reference to function template instantiation 'Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::result_t Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::shift_left_leaf_(Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::leaf_node_t *,Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::leaf_node_t *,Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::inner_node_t *,Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::size_type)' being compiled
+          with
+          [
+              Key=Ajy::String,
+              _Kty=Ajy::String,
+              _Ty=int
+          ]
+  c:\self\vsproject\ajylib\ajylib\test\map_compare.h(846): note: see reference to class template instantiation 'Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>' being compiled
+          with
+          [
+              Key=Ajy::String,
+              _Kty=Ajy::String,
+              _Ty=int
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2599): warning C4996: 'std::_Move': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2586): note: see declaration of 'std::_Move'
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(156): note: see reference to function template instantiation '_OutIt std::move<iterator_from_t,iterator_to_t>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=std::pair<Ajy::String,int> *,
+              iterator_from_t=std::pair<Ajy::String,int> *,
+              iterator_to_t=std::pair<Ajy::String,int> *,
+              _InIt=std::pair<Ajy::String,int> *
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2158): note: see reference to function template instantiation 'void Ajy::bpp_tree_detail::move_forward<iterator_from_t,iterator_to_t>(iterator_from_t,iterator_from_t,iterator_to_t,Ajy::bpp_tree_detail::move_assign_tag)' being compiled
+          with
+          [
+              iterator_from_t=std::pair<Ajy::String,int> *,
+              iterator_to_t=std::pair<Ajy::String,int> *
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2519): note: see reference to function template instantiation 'void Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::move_forward_<std::pair<Ajy::String,int>*,std::pair<Ajy::String,int>*>(iterator_from_t,iterator_from_t,iterator_to_t)' being compiled
+          with
+          [
+              Key=Ajy::String,
+              _Kty=Ajy::String,
+              _Ty=int,
+              iterator_from_t=std::pair<Ajy::String,int> *,
+              iterator_to_t=std::pair<Ajy::String,int> *
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2519): note: see reference to function template instantiation 'void Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::move_forward_<std::pair<Ajy::String,int>*,std::pair<Ajy::String,int>*>(iterator_from_t,iterator_from_t,iterator_to_t)' being compiled
+          with
+          [
+              Key=Ajy::String,
+              _Kty=Ajy::String,
+              _Ty=int,
+              iterator_from_t=std::pair<Ajy::String,int> *,
+              iterator_to_t=std::pair<Ajy::String,int> *
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2685): warning C4996: 'std::_Move_backward': Function call with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2672): note: see declaration of 'std::_Move_backward'
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(168): note: see reference to function template instantiation '_BidIt2 std::move_backward<iterator_from_t,iterator_to_t>(_BidIt1,_BidIt1,_BidIt2)' being compiled
+          with
+          [
+              _BidIt2=std::pair<Ajy::String,int> *,
+              iterator_from_t=std::pair<Ajy::String,int> *,
+              iterator_to_t=std::pair<Ajy::String,int> *,
+              _BidIt1=std::pair<Ajy::String,int> *
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(197): note: see reference to function template instantiation 'void Ajy::bpp_tree_detail::move_backward<iterator_t,iterator_t>(iterator_from_t,iterator_from_t,iterator_to_t,Ajy::bpp_tree_detail::move_assign_tag)' being compiled
+          with
+          [
+              iterator_t=std::pair<Ajy::String,int> *,
+              iterator_from_t=std::pair<Ajy::String,int> *,
+              iterator_to_t=std::pair<Ajy::String,int> *
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2170): note: see reference to function template instantiation 'void Ajy::bpp_tree_detail::move_next_to_and_construct<iterator_t>(iterator_t,iterator_t,iterator_t,Ajy::bpp_tree_detail::move_assign_tag)' being compiled
+          with
+          [
+              iterator_t=std::pair<Ajy::String,int> *
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2536): note: see reference to function template instantiation 'void Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::move_next_to_and_construct_<std::pair<Ajy::String,int>*>(iterator_t,iterator_t,iterator_t)' being compiled
+          with
+          [
+              Key=Ajy::String,
+              _Kty=Ajy::String,
+              _Ty=int,
+              iterator_t=std::pair<Ajy::String,int> *
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2536): note: see reference to function template instantiation 'void Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::move_next_to_and_construct_<std::pair<Ajy::String,int>*>(iterator_t,iterator_t,iterator_t)' being compiled
+          with
+          [
+              Key=Ajy::String,
+              _Kty=Ajy::String,
+              _Ty=int,
+              iterator_t=std::pair<Ajy::String,int> *
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2534): note: while compiling class template member function 'void Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::shift_right_leaf_(Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::leaf_node_t *,Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::leaf_node_t *,Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::inner_node_t *,Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::size_type)'
+          with
+          [
+              Key=Ajy::String,
+              _Kty=Ajy::String,
+              _Ty=int
+          ]
+  c:\self\vsproject\ajylib\ajylib\bpptree.hpp(2740): note: see reference to function template instantiation 'void Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::shift_right_leaf_(Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::leaf_node_t *,Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::leaf_node_t *,Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::inner_node_t *,Ajy::bpp_tree<Ajy::bpptree_map_config_t<Ajy::String,int,std::less<Key>,std::allocator<std::pair<const _Kty,_Ty>>,std::true_type>>::size_type)' being compiled
+          with
+          [
+              Key=Ajy::String,
+              _Kty=Ajy::String,
+              _Ty=int
+          ]
+  String.cpp
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1018): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1009): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1030): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1021): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1042): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1033): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\string.cpp(392): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\string.cpp(435): warning C4018: '<=': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\string.cpp(479): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\string.cpp(484): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\string.cpp(488): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\string.cpp(530): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\string.cpp(535): warning C4018: '<': signed/unsigned mismatch
+c:\self\vsproject\ajylib\ajylib\string.cpp(609): warning C4018: '<': signed/unsigned mismatch
+  Serialization.cpp
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1018): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1009): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1030): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1021): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1042): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1033): note: see declaration of '<unnamed-symbol>'
+  MemoryPool.cpp
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1018): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1009): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1030): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1021): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1042): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1033): note: see declaration of '<unnamed-symbol>'
+  dtoa_milo.cpp
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1018): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1009): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1030): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1021): note: see declaration of '<unnamed-symbol>'
+c:\self\vsproject\ajylib\ajylib\avltree.hpp(1042): warning C4544: '<unnamed-symbol>': default template argument ignored on this template declaration
+  c:\self\vsproject\ajylib\ajylib\avltree.hpp(1033): note: see declaration of '<unnamed-symbol>'
+  Generating Code...
+  AjyLib.vcxproj -> C:\self\VSProject\AjyLib\Debug\AjyLib.exe

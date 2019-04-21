@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<AutoVisualizer xmlns="http://schemas.microsoft.com/vstudio/debugger/natvis/2010">
+  <Type Name="Ajy::Vector&lt;*&gt;">
+    <DisplayString Condition="dataLen == 0">empty</DisplayString>
+    <DisplayString>{{size = {dataLen},capacity = {bufLen}}}</DisplayString>
+    <Expand>
+      <Item Name="[size]" ExcludeView="simple">dataLen</Item>
+      <Item Name="[capacity]" ExcludeView="simple">bufLen</Item>
+      <ArrayItems>
+        <Size>dataLen</Size>
+        <ValuePointer>buf</ValuePointer>
+      </ArrayItems>
+    </Expand>
+  </Type>
+</AutoVisualizer>
